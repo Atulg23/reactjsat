@@ -16,7 +16,7 @@
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "apexcharts": "^3.15.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "date-fns": "^2.9.0",
     "downshift": "^5.0.4",
     "form-components": "^1.7.0",
